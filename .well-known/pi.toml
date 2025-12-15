@@ -1,1 +1,6 @@
-
+[[CURRENCIES]]
+code="SAMIR"
+issuer="GXXXXXXXXXXXXXXXXXXXX"
+name="Samir Token"
+desc="Test token on Pi Testnet"
+image="https://samirartist.github.io/logo.png"
