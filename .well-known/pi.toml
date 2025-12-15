@@ -1,7 +1,7 @@
 [[CURRENCIES]]
 code="SAMIR"
 issuer="GXXXXXXXXXXXXXXXXXXXX"
-name="Samir Token"
+name=name="samir DZD test"
 desc="Test token on Pi Testnet"
 image="https://samirartist.github.io/logo.png"
 issuer="GXXXXXXXXXXXXXXXXXXXX"
