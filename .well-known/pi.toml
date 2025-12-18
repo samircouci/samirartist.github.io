@@ -1,6 +1,9 @@
+
 [[CURRENCIES]]
-code="SAMIR"
-issuer="GCCFP4UU6OIGEJAXZH4V5HYUKATU5ZKE5GZZM2U5KNBSMYEQFWSFLBNI"
-name="samir DZD test"
+code="DZDGCV"
+issuer="حط المفتاح العام تاع محفظة الإصدار هنا لي يبدا بـ G"
+name="DZDGCV"
 desc="Test token on Pi Testnet"
-image="https://samirartist.github.io/logo.png"
+image="https://raw.githubusercontent.com/USERNAME/REPO/main/logo.png"
+
+
